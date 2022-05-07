@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "ocp9cosmosdb_DOCUMENTDB": "",
+    "AzureWebJobs.HttpTrigger1.Disabled": "true"
+  }
+}
